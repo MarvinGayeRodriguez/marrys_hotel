@@ -1,7 +1,7 @@
 marrys_hotel
 ============
 
-Project Marrys TODO
+TODO:
 
 1. Mock-ups presentation to the owner
 2. DB design based on mock-ups
